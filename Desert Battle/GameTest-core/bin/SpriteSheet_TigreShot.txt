@@ -1,0 +1,33 @@
+SpriteSheet_TigreShot.png
+size: 194, 26
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Red_Skill_Shot
+  rotate: false
+  xy: 151, 1
+  size: 42, 24
+  orig: 64, 64
+  offset: 10, 19
+  index: 1
+Red_Skill_Shot
+  rotate: false
+  xy: 103, 1
+  size: 46, 24
+  orig: 64, 64
+  offset: 6, 19
+  index: 2
+Red_Skill_Shot
+  rotate: false
+  xy: 1, 1
+  size: 49, 24
+  orig: 64, 64
+  offset: 3, 19
+  index: 3
+Red_Skill_Shot
+  rotate: false
+  xy: 52, 1
+  size: 49, 24
+  orig: 64, 64
+  offset: 3, 19
+  index: 4

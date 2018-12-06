@@ -1,0 +1,26 @@
+SpriteSheet_KitsunoTigre.png
+size: 40, 106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tiger_Idle
+  rotate: false
+  xy: 1, 55
+  size: 38, 50
+  orig: 64, 64
+  offset: 11, 5
+  index: 1
+Tiger_Idle
+  rotate: false
+  xy: 1, 1
+  size: 38, 52
+  orig: 64, 64
+  offset: 11, 5
+  index: 2
+Tiger_Idle_3 (2)
+  rotate: false
+  xy: 1, 1
+  size: 38, 52
+  orig: 64, 64
+  offset: 11, 5
+  index: -1
